@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Гульзада Усупжанова](https://up.htmlacademy.ru/htmlcss/34/user/1954409).
-* Наставник: https://htmlacademy.ru/profile/id240237
+* Наставник:[Андрей Чепулис] https://htmlacademy.ru/profile/id240237
 
 ---
 
